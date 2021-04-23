@@ -1,6 +1,15 @@
 # NumGen
 An integer generator made in C++
 
+Compiled (on Ubuntu 20.04.2 LTS 64-Bit) with:<br>
+Windows x64: x86_64-w64-mingw32-g++ ...<br>
+Windows x86: i686-w64-mingw32-g++ ...<br>
+Linux x64: g++ ...<br>
+Linux x86: g++ ... -m32<br><br>
+
+Linked libraries:<br>
+[-static-libstdc++ -static-libgcc]
+
 ## Features (default, cannot be changed right now)
 - Save generated numbers on a file
 

@@ -1,6 +1,10 @@
 # NumGen
 An integer generator made in C++
 
+### NOW ON THE SNAP STORE!
+[![Get it from the Snap Store](https://snapcraft.io/static/images/badges/en/snap-store-black.svg)](https://snapcraft.io/numgen)
+
+### Information
 Compiled (on Ubuntu 20.04.2 LTS 64-Bit) with:<br>
 Windows x64: x86_64-w64-mingw32-g++ ...<br>
 Windows x86: i686-w64-mingw32-g++ ...<br>

@@ -1,0 +1,4 @@
+echo Compiling... Note: This was tested on Ubuntu only.
+g++ NumGen.cpp -o NumGen_Linux64 -Os
+x86_64-w64-mingw32-g++ NumGen.cpp -static-libstdc++ -static-libgcc -o NumGen_Windows64 -Os
+i686-w64-mingw32-g++ NumGen.cpp -static-libstdc++ -static-libgcc -o NumGen_Windows32 -Os
